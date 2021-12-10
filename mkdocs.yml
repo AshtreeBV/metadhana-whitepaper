@@ -33,10 +33,14 @@ nav:
   # Overview for MetaDhana
   - For Our Community: README.md
   - Ecosystem & Technology: technology.md
-  - Value Generation: value-generation.md
+  - Value Generation:
+      - Destiantion X DAO: value/value-generation.md
+  - Games and Game Partners:
+      - In House: games/house.md
+      - Partners: games/game-partners.md
   - Additional Details:
-      - details/roadmap.md
-      - details/team-partners.md
+      - Roadmap: details/roadmap.md
+      - Team & Partners: details/team-partners.md
 
 markdown_extensions:
   - def_list
