@@ -29,13 +29,13 @@
 - [x] Rooster Wars NFT Egg Sale
 - [x] Community Building and NFT Beta Game Testing
 - [x] Announcement of Rooster Wars
-- [ ] Token Presale Round
 
 ### 2022
 
 #### Q1
 
-- [ ] IDO/CEX Listing of Main Token
+- [ ] DS10X Initial Community Offer
+- [ ] IDO/CEX Listing of DS10X Token
 - [ ] Cross-Chain Swap (BSC, ETH, Polygon, Solana)
 - [ ] Stakescription Platform
 - [ ] NFT Unlock Platform for Exclusive Content and Access
@@ -104,7 +104,4 @@
 
 - [ ] Form partnerships with big studios for funding and production of new media content
 - [ ] Engage with local governments to blockchainify their city operations through DAOs
-<!-- Removed by Sir Walter
-- [ ] Preview of MMORPG game created by MetaDhana studio
-      -->
 - [ ] Fund or Acquire relevant media and production companies that can contribute to the ecosystem
