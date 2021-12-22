@@ -22,7 +22,7 @@ To learn more about our project, head over to the following pages:
 
 ## Token Utility
 
-Each utility is attached to its own TOKEN derivative that makes each TOKEN derivative unique and valuable. (Learn more about token derivatives <b><a href="https://ambitious-pond-070099200.azurestaticapps.net/ds10x/tokens/" target="_blank">here</a></b>)
+Each utility is attached to its TOKEN derivative that makes each TOKEN derivative unique and valuable. (Learn more about token derivatives <b><a href="https://ambitious-pond-070099200.azurestaticapps.net/ds10x/tokens/" target="_blank">here</a></b>)
 
 Utilities are:
 
@@ -30,5 +30,5 @@ Utilities are:
 2. Lock TOKEN & NFTs to unlock exclusive content
 3. Vote and participate in the DAO
 4. Buy and Sell in the marketplace
-5. Pay for services in our Crosschain Swap
+5. Pay for services in our Cross-chain Swap
 6. Mint TOKEN using earned token derivatives
