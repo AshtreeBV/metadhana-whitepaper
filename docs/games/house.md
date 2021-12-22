@@ -1,6 +1,6 @@
 # **In-house Games**
 
-These are games developed inside the MetaDhana ecosystem and fully enjoys the benefits of the Destination X DAO and other utilities of the ecosystem.
+These are games developed inside the MetaDhana ecosystem and fully enjoy the benefits of the Destination X DAO and other utilities of the ecosystem.
 
 ## **1. Metazoan Chronicles**
 

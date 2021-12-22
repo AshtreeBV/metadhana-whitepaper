@@ -14,7 +14,7 @@
 #### Q3
 
 - [x] Adding Artificial Intelligence (AI) Concepts
-- [x] Solidfying Metaverse Components
+- [x] Solidifying Metaverse Components
 - [x] NFT Artwork for Felisian Race
 - [x] Adding Blockchain to partnered games
 - [x] Creating Lore for Metazoan Chronicles
@@ -22,13 +22,13 @@
 #### Q4
 
 - [x] Launch Website
-- [ ] Whitepaper release
+- [x] Whitepaper release
 - [x] Gameplay Demo release
 - [x] Social Media and PR Campaigns
 - [x] NFT Sales (Felisians)
-- [ ] Rooster Wars NFT Egg Sale
+- [x] Rooster Wars NFT Egg Sale
 - [x] Community Building and NFT Beta Game Testing
-- [ ] Announcement of Rooster Wars
+- [x] Announcement of Rooster Wars
 - [ ] Token Presale Round
 
 ### 2022
@@ -40,15 +40,15 @@
 - [ ] Stakescription Platform
 - [ ] NFT Unlock Platform for Exclusive Content and Access
 - [ ] Custodial Wallet Launch
-- [ ] Establish an AI Powered Crypto and Financial News Platform
+- [ ] Establish an AI-Powered Crypto and Financial News Platform
 - [ ] AI Text RPG Game Beta Launch
 - [ ] Launch of Rooster Wars
 - [ ] Launch of Blockchain Education Content Platform
 - [ ] Expand the creative team and artist partners with the aim of launching new NFTs every month
 - [ ] Creation of foundation for Creator and Artist Development for Web 3
-- [ ] Conception of Niche NFT Marketplace
+- [ ] The conception of Niche NFT Marketplace
 - [ ] Release of P2E SDK for Game Devs
-- [ ] Create platform for creators to easily launch NFTs and add utility and rewards to it
+- [ ] Create a platform for creators to easily launch NFTs and add utility and rewards to it
 - [ ] Establishment of dedicated support teams for Game Dev, VR/AR studios, and media companies
 - [ ] Establish Business Development teams in different regions with the aim to launch new P2E NFT games at least every quarter
 - [ ] MetaDhana Global Grand Launch Event
@@ -70,7 +70,7 @@
 
 - [ ] Create a Decentralized Scholarship fund for Social Good
 - [ ] Create DAO initiated incubator and Grants Program
-- [ ] Pilot test of an integration of DAO privileges to offline businesses
+- [ ] Pilot test of integration of DAO privileges to offline businesses
 - [ ] Initiate talks with the Philippine government to explore blockchain opportunities and regulatory framework
 - [ ] Form Strategic Partnerships with different media and VR/AR studios
 - [ ] Creation of NFT Manga/Comic Reader
@@ -97,7 +97,7 @@
 
 - [ ] Purchase of a large parcel of land in the Philippines with benefits to DAO members
 - [ ] Explore Purchase of other physical revenue generating properties and businesses in the real world for the DAO
-- [ ] Initial establishment of an Anime/Multimedia Outsourcing Township Project in the Philippines to finally create a real self sufficient Philippine Visual Media Industry backed by world-class multimedia partners and experts.
+- [ ] An initial establishment of an Anime/Multimedia Outsourcing Township Project in the Philippines to finally create a real self-sufficient Philippine Visual Media Industry backed by world-class multimedia partners and experts.
 - [ ] Potential Preview of an independent AI metaverse
 
 #### Q2

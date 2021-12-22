@@ -1,6 +1,6 @@
 # **Game Partners**
 
-Below are a list of official game partners that the MetaDhana project supports. These projects are either previously developed games that plugged-in to our ecosystem or games under development seeking for mutual benefits and partnerships.
+Below is a list of official game partners that the MetaDhana project supports. These projects are either previously developed games that plugged-in into our ecosystem or games under development seeking mutual benefits and partnerships.
 
 ## **1. Rooster Wars**
 
