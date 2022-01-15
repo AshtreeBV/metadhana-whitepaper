@@ -1,6 +1,6 @@
 # **In-house Games**
 
-These are games developed inside the MetaDhana ecosystem and fully enjoy the benefits of the Destination X DAO and other utilities of the ecosystem.
+These are games developed inside the MetaDhana ecosystem and fully enjoy the benefits of the DestineX DAO and other utilities of the ecosystem.
 
 ## **1. Metazoan Chronicles**
 
@@ -17,4 +17,4 @@ _Genre: Action, Survival_
 ### **Public Sale is now live!**
 
 - Checkout their <b><a href="https://www.metazoan.io/" target="_blank">Website</a></b>
-- DYOR! and read the <b><a href="https://delightful-ocean-084539a00.azurestaticapps.net/" target="_blank">Whitepaper</a></b>
+- DYOR! and read the <b><a href="https://whitepaper.metazoan.io/" target="_blank">Whitepaper</a></b>
