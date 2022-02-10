@@ -5,7 +5,7 @@
 #### Q2
 
 - [x] Project Ideation
-- [x] R&D of Defi + NFT concepts
+- [x] R&D of DeFi + NFT concepts
 - [x] Metaverse Conceptualization
 - [x] Team Formation
 - [x] Forging Partnerships with established companies
