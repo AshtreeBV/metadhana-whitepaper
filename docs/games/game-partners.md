@@ -8,7 +8,7 @@ A fun and engaging P2E game with a low cost of entry! Hurry and grab a limited E
 
 <center>
 
-### **Public Egg-sale on 12.12.21**
+### **Egg-sale on February 14, 2022**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7KK56OCb7z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
