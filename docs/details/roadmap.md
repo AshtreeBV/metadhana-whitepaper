@@ -1,5 +1,8 @@
 # Roadmap
 
+Our Roadmap is currently undergoing changes, rest assured that we are continuously building.
+
+<!-- Original Roadmap
 ### 2021
 
 #### Q2
@@ -105,3 +108,5 @@
 - [ ] Form partnerships with big studios for funding and production of new media content
 - [ ] Engage with local governments to blockchainify their city operations through DAOs
 - [ ] Fund or Acquire relevant media and production companies that can contribute to the ecosystem
+
+-->
