@@ -1,11 +1,14 @@
 # Roadmap
 
+Our Roadmap is currently undergoing changes, rest assured that we are continuously building.
+
+<!-- Original Roadmap
 ### 2021
 
 #### Q2
 
 - [x] Project Ideation
-- [x] R&D of Defi + NFT concepts
+- [x] R&D of DeFi + NFT concepts
 - [x] Metaverse Conceptualization
 - [x] Team Formation
 - [x] Forging Partnerships with established companies
@@ -105,3 +108,5 @@
 - [ ] Form partnerships with big studios for funding and production of new media content
 - [ ] Engage with local governments to blockchainify their city operations through DAOs
 - [ ] Fund or Acquire relevant media and production companies that can contribute to the ecosystem
+
+-->

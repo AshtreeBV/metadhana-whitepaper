@@ -1,13 +1,13 @@
 # **DestineX DAO**
 
-DestineX DAO creates value for all participants in multiple ways, wherein the highest benefits are attained when the community chooses to cooperate and help each other.
-
 <center>
 
-<i><b>DestineX DAO </b> has its own dedicated whitepaper available <a href="https://whitepaper.ds10x.money/" target="_blank"><b>here</b></a>.</i>
+
+<i><b>Disclaimer: DestineX DAO </b> has its own dedicated whitepaper available <a href="https://whitepaper.ds10x.money/" target="_blank"><b>here</b></a>. The project's core features are currently being developed and the updates will be released soon.</i>
 
 </center>
 
+<!-- Version 1 Features
 Below are four (4) general strategies or actions that each participant can choose from:
 
 1. <b><a href="https://whitepaper.ds10x.money/ds10x/utilities/staking/" target="_blank">Staking</a></b> - a passive, long-term strategy
@@ -32,3 +32,5 @@ Utilities are:
 4. Buy and Sell in the marketplace
 5. Pay for services in our Cross-chain Swap
 6. Mint TOKEN using earned token derivatives
+
+-->

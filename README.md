@@ -28,7 +28,7 @@ Contribution guideline to follow soon.
 Below are the whitepapers of the current projects within and in partnership with MetaDhana
 
 1. [MetaDhana Litepaper](https://whitepaper.metadhana.io/)
-2. [DestineX Whitepaper](https://whitepaper.ds10x.money/)
+2. [DestineX Whitepaper](https://whitepaper.ds10x.com/)
 3. [Metazoan Chronicles](https://whitepaper.metazoan.io/)
 4. [Rooster Wars](https://whitepaper.roosterwars.io/)
 
@@ -55,6 +55,6 @@ Below are the official websites of Metadhana
 - [MetaDhana Homepage](https://www.metadhana.io/)
 - MetaDhana MATIC Faucet
 - MetaDhana Cross-chain Swap
-- [DestineX DAO](https://www.ds10x.money/)
+- [DestineX DAO](https://ds10x.com/)
 - [Metazoan Chronicles](https://www.metazoan.io/)
 - [Rooster Wars](https://www.roosterwars.io/)
